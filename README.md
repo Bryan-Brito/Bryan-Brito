@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there
 
 
 ![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryan-Brito&show_icons=true&include_all_commits=true&theme=merko)
