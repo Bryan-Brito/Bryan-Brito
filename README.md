@@ -1,7 +1,6 @@
 ### Olá, me chamo Bryan Brito
 
 🌐| Estou me formando em Redes de Computadores<br>
-👨‍💻| Quero me tornar um Dev Full Stack
 
 ![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryan-Brito&show_icons=true&include_all_commits=true&theme=merko)
 
