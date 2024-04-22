@@ -2,7 +2,7 @@
 
 🖥️ Soft Skills: Self-taught, communicative, leadership 
 
-🖥️ Hard Skills: Network Programming, Network Routing, Data Communication, Office Package, TCP/IP, Python, Introduction to Open Systems, and Linux.
+👨🏼‍💻 Hard Skills: Network Programming, Network Routing, Data Communication, Office Package, TCP/IP, Python, Introduction to Open Systems, and Linux.
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bryan-Brito&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
