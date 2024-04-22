@@ -1,6 +1,6 @@
 🌎 I'm 20 years old, i'm currently studying Computer Networks at IFRN. My focus is to follow the area of SecOps. 
 
-🖥️ Soft Skills: Self-taught, communicative, leadership 
+🖥️ Soft Skills: Self-taught, communicative, leadership.
 
 👨🏼‍💻 Hard Skills: Network Programming, Network Routing, Data Communication, Office Package, TCP/IP, Python, Introduction to Open Systems, and Linux.
 
