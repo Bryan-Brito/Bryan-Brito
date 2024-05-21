@@ -1,4 +1,4 @@
-🌎 I'm 20 years old, i'm currently studying Computer Networks at IFRN. My focus is to follow the area of SecOps. 
+🌎 I'm 20 years old, i'm currently studying Computer Networks at IFRN. My focus is the area of SecOps. 
 
 🖥️ Soft Skills: Self-taught, communicative, leadership.
 
